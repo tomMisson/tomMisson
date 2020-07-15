@@ -8,6 +8,6 @@
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/tomMisson/tomMisson/issues)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://blog.tommisson.uk)
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tomMisson?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/tomMisson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tomMisson?tab=followers)
 
 
