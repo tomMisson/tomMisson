@@ -2,8 +2,8 @@
 
 Blogger, workshop coach, full stack developer. 
 
-[workshops.tommisson.uk](https://workshops.tommisson.uk)
-[blog.tommisson.uk](https://blog.tommisson.uk)
+[🛠Workshops hub](https://workshops.tommisson.uk)
+[📃Blog](https://blog.tommisson.uk)
 
 - 🔭 I’m currently working on Super secret Gatsby projects [@MasterOfMalt](https://twitter.com/MasterOfMalt?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 - 🌱 I’m currently learning how to code at a Enterprise level
