@@ -1,6 +1,6 @@
 ### You found me! 😁
 
-Blogger, workshop coach, full stack developer. 
+Full stack developer, blogger and. workshop coach.
 
 [🛠Workshops hub](https://workshops.tommisson.uk)
 [📃Blog](https://blog.tommisson.uk)
