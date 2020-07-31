@@ -10,9 +10,7 @@ Full stack developer, blogger and. workshop coach.
 - 📫 How to reach me: Via [email](mailto:hi@tommisson.uk) or call [+447542274199](tel:+447542274199)
 
 <span>
-[![tomMissons's github stats](https://github-readme-stats.vercel.app/api?username=tomMisson&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomMisson)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomMisson)]
 </span>
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Twitter)](https://twitter.com/thomas_misson)
