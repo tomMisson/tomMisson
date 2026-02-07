@@ -9,7 +9,7 @@ Full stack developer, blogger and. workshop coach.
 - 🌱 I’m currently learning how to code at a Enterprise level
 - 📫 How to reach me: Via [email](mailto:hi@tommisson.uk) or call [+447542274199](tel:+447542274199)
 
-[![Toms's github stats](https://github-readme-stats.vercel.app/api?username=tomMisson&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[!Toms's github stats](https://github-readme-stats.vercel.app/api?username=tomMisson&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Twitter)](https://twitter.com/thomas_misson)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://tommisson.uk)
